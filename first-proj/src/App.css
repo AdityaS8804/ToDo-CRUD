@@ -1,0 +1,7 @@
+body {
+  background: linear-gradient(0.25turn, #FF6436, #FC4B68);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
